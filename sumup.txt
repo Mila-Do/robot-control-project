@@ -1,0 +1,6 @@
+- TypeScript for type safety
+- tRPC for type-safe API calls
+- Prisma for type-safe database
+- TailwindCSS for styling
+- NextAuth.js for auth
+- Zod for runtime validation
